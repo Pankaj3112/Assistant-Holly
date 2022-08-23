@@ -1,7 +1,6 @@
 import re
 import pyttsx3
 import webbrowser
-from googleapiclient.discovery import build
 import requests
 import time
 from datetime import datetime
@@ -197,6 +196,7 @@ def newsmain():
 
 
 if __name__=="__main__":
+    #you need to add contacts here in order to send emails
     contacts = {"xyz":"xyz@gmail.com","abc":"abc@gmail.com"}
 
     print("-You can say 'help' for help and\n\
