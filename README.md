@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
     
 ## Creating Keys For Third Party APIs
-- Jarvis assistant uses third party APIs for speech recognition,web information search, weather forecasting etc.\
+- Holly assistant uses third party APIs for speech recognition,web information search, weather forecasting etc.\
 - All the following APIs have free no-commercial API calls. Subscribe to the following APIs in order to take FREE access KEYs.
 
   1. [News Api](https://newsapi.org/) API for latest news
@@ -29,10 +29,10 @@ pip install -r requirements.txt
 - Opens a web page (e.g 'Holly open youtube')
 - Play music/vedios in Youtube (e.g 'Holly play Dostcast on Youtube')
 - Tells the weather(e.g 'Holly tell me the weather)
-- Tells the current (e.g 'Holly tell me')
+- Tells the current time (e.g 'Holly tell me the time')
 - Tells the daily news(e.g 'Holly tell me the news')
 - Tells everything it can do(e.g 'Holly what can you do')
-- Do basic calculations (e.g 'Holly (5567 + 6345)' or 'Jarvis 11 multiply 81')
+- Do basic calculations (e.g 'Holly (5567 + 6345)' or 'Holly 11 multiply 81')
 - Tell you a joke(e.g 'Holly tell me a joke')
 - Empty your recycle bin(e.g 'Holly Empty recycle bin')
 - Send email to someone in your contacts (e.g'Send email to Cheeku')
